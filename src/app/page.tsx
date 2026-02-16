@@ -24,7 +24,7 @@ export default function Home() {
 
       <BrandFeatures />
 
-      {/* Trending Section */}
+      {/* Trending Section tst */}
       <section className="relative py-24 px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <div className="mb-12 flex flex-col items-end justify-between gap-4 sm:flex-row sm:items-end">
